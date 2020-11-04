@@ -52,6 +52,20 @@ p{
 	background: teal;
 }
 
+.number{font-family: Helvetica;
+	font-size: 18px;
+	font-weight: lighter;
+	text-align: left;
+	color: white;
+	background: teal;}
+
+.li{font-family: Helvetica;
+	font-size: 14px;
+	font-weight: lighter;
+	text-align: left;
+	color: white;
+	background: green;}
+
 
 
 
