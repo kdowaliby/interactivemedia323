@@ -1,0 +1,136 @@
+<!DOCTYPE> 
+<html>
+<head>
+<title>Portiat excersise 3</title>
+<style>
+	body{background: white;}
+
+	.top-container
+		{display: inline-block;
+		position: fixed;
+		width: 100%;
+		top: 0px;}
+
+	.logo{
+		display: inline-block
+		width: 20px;
+		height: 20px;
+		background: mediumpurple;
+		left: 20px;
+		top: 10px;
+		position: relative;}
+
+		ul{
+			display: inline-block;
+			position: relative;
+			left: 100px;
+			top: 0px;
+			padding: 0px;
+			border: 0px;
+		}
+		li{
+			display: inline-block;
+			color: black;
+		}
+		#right{
+			position: relative;
+			left: 910px;
+			top: 10px;
+		}
+		#magnifying-glass{
+			font-size: 30px;
+			display: inline-block;
+			width: 0.4em;
+			box-sizing: content-box;
+			height: 0.4em
+			border: 0.1em solid grey;
+			background-color: lightgrey
+			position: relative;
+			border-radius: 0.35em;
+			left: 100px;
+			top: 10px; 
+		}
+		#magnifying-glass:before {
+      content: "";
+      display: inline-block;
+      position: absolute;
+      right: -0.25em;
+      bottom: -0.1em;
+      border-width: 0;
+      background: lightgrey;
+      width: 0.35em;
+      height: 0.08em;
+      transform: rotate(45deg);
+    }
+
+    .profile{
+    	display: inline-block;
+    	width: 20px;
+    	height: 20px;
+    	background: black;
+    	border-radius: 10%;
+    	left: 920px;
+    	top: 20px;
+    	position: relative;
+    }
+
+    .profile:after {
+    	content: "";
+      width: 10px;
+      height: 10px;
+      background: grey;
+      border-radius: 5%;
+      left: 920px;
+    	top: 20px;
+    	position: relative;
+
+    .main-container{
+    	display: block;
+    	width: 100%;
+    	top: 40px;
+    }
+
+    .image{
+    	width: 210px;
+    	height: 100px;
+    	background-color: lightgrey;
+    	display: inline-block;
+    	float: left;
+    	margin-left: 5px;
+    	margin-right: 10px;
+    	margin-top: 19px;
+    	position: relative;
+    	top: 80px; 
+    }
+
+
+</style>
+</head>
+<body>
+	<div class= "top-container">
+		<div class= "logo">
+			<ul>
+				<li>...</li>
+				<li>&nbsp;&nbsp;&nbsp;&nbsp;...</li>
+				<li>&nbsp;&nbsp;&nbsp;&nbsp;...</li>
+				<li>&nbsp;&nbsp;&nbsp;&nbsp;...</li>
+				<li>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;...</li>
+			</ul>
+		</div>
+		<div id="magnifying-glass"></div>
+
+		<div class="main-container">
+			<div class="image"></div>
+			<div class="image"></div>
+			<div class="image"></div>
+			<div class="image"></div>
+			<div class="image"></div>
+			<div class="image"></div>
+			<div class="image"></div>
+			<div class="image"></div>
+
+</div>
+</body>
+</html>
+
+	
