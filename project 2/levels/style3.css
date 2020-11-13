@@ -1,0 +1,29 @@
+body{
+
+}
+
+.h1{
+	padding: 30px;
+	margin: 20px;
+}
+.boxes{
+	display: inline-block;
+	width: 120px;
+	height: 70px;
+	border: 2px solid red;
+	top: 20px;
+	left: 200px;
+}
+
+br{
+	position: relative;
+	left: 200px;
+	float: left;
+	border: 5px solid blue;
+}
+ul{border: 3px solid coral;
+	height: 80px;
+	width: 300px;
+	position: relative;
+	top: 20px;
+	left: 140px;} 

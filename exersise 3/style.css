@@ -1,14 +1,468 @@
-body{
+body{background-color: white}
 
-}
-
-.container {
-	background: grey;
-	height: 200px;
-	width: 500px;
-	padding: 14px;
+.topcontainer{
 	position: fixed;
-	right: 10px;
-	top: 10px;
-	z-index: -1;
+	width: 100%;
+	top: 0px;
+	height: 40px;
+	background: white;
 }
+
+#logo{
+	display: inline-block;
+	position: relative;
+	width: 20px;
+	height: 20px;
+	background: mediumpurple;
+	left: 30px;
+	top: 3px; 
+}
+
+ul{list-style: none;
+display: inline-block;
+position: relative;
+top: -2px;
+}
+li{
+	display: inline-block;
+	position: relative;
+	color: black;
+	top: -2px;
+}
+
+.sbar{
+	display: inline-block;
+	position: relative;
+	width: 300px;
+	height: 20px;
+	background: silver;
+	border-radius: 5%;
+	top: 3px;
+	margin-left: 30%;
+	
+}
+
+.search{
+	display: inline-block;
+	position: relative;
+	width: 20px;
+	height: 20px;
+	background: lightgrey;
+	border-radius: 10%;
+	left: -4px;
+	top: 3px;
+}
+
+.box1{
+	display: inline-block;
+	position: relative;
+	width: 10px;
+	height: 5px;
+	background: black;
+	left: 300px;
+	top: 1px;
+}
+
+.box2{
+	display: inline-block;
+	position: relative;
+	width: 10px;
+	height: 5px;
+	background: black;
+	left: 310px;
+	top: 1px;
+}
+
+.box3{
+	display: inline-block;
+	position: relative;
+	width: 10px;
+	height: 5px;
+	background: black;
+	left: 320px;
+	top: 1px;
+}
+
+.rec{
+	display: inline-block;
+	position: relative;
+	width: 100px;
+	height: 20px;
+	background: silver;
+	border-radius: 10%;
+	left: 330px;
+	top: 3px;
+}
+
+#profile{
+	display: inline-block;
+	position: relative;
+	width: 20px;
+	height: 20px;
+	background: black;
+	border-radius: 100%;
+	left: 340px;
+	top: 3px;
+}
+
+#active{
+	display: inline-block;
+	position: relative;
+	width: 6px;
+	height: 6px;
+	background: lightgrey;
+	border-radius: 100%;
+	left: 331px;
+	top: 3px;}
+
+.sidecontainer{
+	position: fixed;
+	width: 35px;
+	height: 100%;
+	top: 40px;
+	left: 29px;
+	background: lightgrey;
+}
+
+.arrow1{
+	display: inline-block;
+	position: relative;
+	width: 2px;
+	height: 10px;
+	background: black;
+	left: 10px;
+	top: 12px;
+}
+.arrow2{
+	display: inline-block;
+	position: relative;
+	width: 10px;
+	height: 4px;
+	background: black;
+	left: 8px;
+	top: 9px;
+}
+
+.sq1{
+	display: inline-block;
+	position: relative;
+	width: 10px;
+	height: 10px;
+	border-radius: 20%;
+	border: 1px solid black;
+	left: -8px;
+	top: 45px;
+}
+
+#circle1{
+	display: inline-block;
+	position: relative;
+	width: 20px;
+	height: 20px;
+	border-radius: 100%;
+	background: black;
+	left: 8px;
+	top: 55px;
+}
+
+#circle2{
+	display: inline-block;
+	position: relative;
+	width: 20px;
+	height: 20px;
+	border-radius: 100%;
+	background: black;
+	left: 8px;
+	top: 60px;
+}
+
+#circle3{
+	display: inline-block;
+	position: relative;
+	width: 20px;
+	height: 20px;
+	border-radius: 100%;
+	background: black;
+	left: 8px;
+	top: 65px;
+}
+
+#circle4{
+	display: inline-block;
+	position: relative;
+	width: 20px;
+	height: 20px;
+	border-radius: 100%;
+	background: black;
+	left: 8px;
+	top: 70px;
+}
+
+#circle5{
+	display: inline-block;
+	position: relative;
+	width: 20px;
+	height: 20px;
+	border-radius: 100%;
+	background: black;
+	left: 8px;
+	top: 75px;
+}
+
+.sq2{
+	display: inline-block;
+	position: relative;
+	width: 10px;
+	height: 10px;
+	border: 1px solid black;
+	left: 12px;
+	top: 85px;
+}
+
+#circle6{
+	display: inline-block;
+	position: relative;
+	width: 20px;
+	height: 20px;
+	border-radius: 100%;
+	background: mediumpurple;
+	left: 8px;
+	top: 95px;
+}
+
+#circle7{
+	display: inline-block;
+	position: relative;
+	width: 20px;
+	height: 20px;
+	border-radius: 100%;
+	background: mediumpurple;
+	left: 8px;
+	top: 100px;
+}
+
+#circle8{
+	display: inline-block;
+	position: relative;
+	width: 20px;
+	height: 20px;
+	border-radius: 100%;
+	background: mediumpurple;
+	left: 8px;
+	top: 105px;
+}
+
+#circle9{
+	display: inline-block;
+	position: relative;
+	width: 20px;
+	height: 20px;
+	border-radius: 100%;
+	background: mediumpurple;
+	left: 8px;
+	top: 110px;
+}
+
+#circle10{
+	display: inline-block;
+	position: relative;
+	width: 20px;
+	height: 20px;
+	border-radius: 100%;
+	background: mediumpurple;
+	left: 8px;
+	top: 115px;
+}
+
+#circle11{
+	display: inline-block;
+	position: relative;
+	width: 20px;
+	height: 20px;
+	border-radius: 100%;
+	background: mediumpurple;
+	left: 8px;
+	top: 120px;
+}
+
+.sq3{
+	display: inline-block;
+	position: relative;
+	width: 10px;
+	height: 10px;
+	border: 1px solid black;
+	left: 12px;
+	top: 130px;
+}
+
+.middlecontainer{
+	display: inline-block;
+	position: fixed;
+	width: 94.5%;
+	height: 400px;
+	top: 40px;
+	left: 64px;
+	background: mediumpurple;
+}
+
+.pointer1{
+	position: relative;
+	width: 20px;
+	height: 20px
+	background: red;
+	top: 80px;
+	left: 70px;
+}
+
+.rec1{
+	display: inline-block;
+	position: relative;
+	width: 800px;
+	height: 200px;
+	background: purple;
+	top: 90px;
+	left: 260px;
+}
+
+.rec2{
+	display: inline-block;
+	position: absolute;
+	width: 720px;
+	height: 250px;
+	background: indigo;
+	top: 70px;
+	left: 300px;
+}
+
+.rec3{
+	display: inline-block;
+	position: absolute;
+	width: 650px;
+	height: 300px;
+	background: mediumorchid;
+	top: 45px;
+	left: 335px;
+}
+
+.bottomcontainer{
+	display: inline-block;
+	position: fixed;
+	width: 94.5%;
+	height: 323px;
+	background: gainsboro;
+	top: 440px;
+	left: 64px;
+}
+
+.image{
+display: inline-block;
+position: relative;
+width: 315px;
+height: 190px;
+background: silver;
+top: 40px;
+left: 30px;	
+}
+
+.image2{
+display: inline-block;
+position: relative;
+width: 315px;
+height: 190px;
+background: silver;
+top: 40px;
+left: 40px;	
+}
+
+.image3{
+display: inline-block;
+position: relative;
+width: 315px;
+height: 190px;
+background: silver;
+top: 40px;
+left: 50px;	
+}
+
+.image4{
+display: inline-block;
+position: relative;
+width: 315px;
+height: 190px;
+background: silver;
+top: 40px;
+left: 60px;	
+}
+
+.image5{
+display: inline-block;
+position: relative;
+width: 315px;
+height: 100px;
+background: silver;
+top: 90px;
+left: 30px;	
+}
+
+.image6{
+display: inline-block;
+position: relative;
+width: 315px;
+height: 100px;
+background: silver;
+top: 90px;
+left: 40px;	
+}
+
+.image7{
+display: inline-block;
+position: relative;
+width: 315px;
+height: 100px;
+background: silver;
+top: 90px;
+left: 50px;	
+}
+
+.image8{
+display: inline-block;
+position: relative;
+width: 315px;
+height: 100px;
+background: silver;
+top: 90px;
+left: 60px;	
+}
+
+#circle12{
+	display: inline-block;
+	position: relative;
+	width: 20px;
+	height: 20px;
+	border-radius: 100%;
+	background: black;
+	left: 30px;
+	top: 90px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
