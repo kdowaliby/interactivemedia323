@@ -1,0 +1,36 @@
+body{
+	background: black
+}
+
+.line:hover {
+	position: relative;
+	display: inline-block;
+	width: 45px;
+	height: 30px;
+	background: plum;
+	transition: width 20s;
+	top: 50%;
+
+	text-transform: lowercase;
+	text-align: justify;
+	font-style: normal;
+	font-family: noteworthy;
+	text-transform: lowercase;
+	color: white;
+
+}
+
+div:hover{
+	position: relative;
+	display: inline-block;
+	width: 50px;
+	height: 20px;
+	top: 50%;
+
+	text-transform: lowercase;
+	text-align: justify;
+	font-style: normal;
+	font-family: noteworthy;
+	text-transform: lowercase;
+	color: white;
+}

@@ -1,0 +1,161 @@
+body{ background: black;}
+
+.circle1:hover {
+	  position: relative;
+	  display: inline-block;
+      width: 200px;
+      height: 190px;
+      background-image: linear-gradient(to right, rgba(255,0,0,0), rgba(255,0,0,1));
+      border: 3px inset white;
+      transition: width, height, 2s;
+      color: white;
+      border-radius: 50%
+      left: 20px;
+      top: 20px;
+
+      font-size: 14pt;
+      font-weight: lighter;
+      font-style: normal;
+      font-family: avenir;
+      text-align: left;
+    }
+
+.circle2:hover {
+	  position: relative;
+	  display: inline-block;
+      width: 200px;
+      height: 255px;
+      background-image: linear-gradient(to right, firebrick, plum,  grey);
+      border: 3px inset white;
+      transition: width, height, 2s;
+      color: white;
+      border-radius: 50%
+      left: 100px;
+      top: 300px;
+
+      font-size: 14pt;
+      font-weight: lighter;
+      font-style: normal;
+      font-family: avenir;
+      text-align: left;
+    }
+
+.circle3:hover {
+	  position: relative;
+	  display: inline-block;
+      width: 200px;
+      height: 205px;
+      background-image: linear-gradient(to right, indianred, paleturquoise, steelblue);
+      border: 3px inset white;
+      transition: width, height, 2s;
+      color: white;
+      border-radius: 50%
+      left: 200px;
+      top: 20px;
+
+      font-size: 14pt;
+      font-weight: lighter;
+      font-style: normal;
+      font-family: avenir;
+      text-align: left;
+    }
+
+.circle4:hover {
+	  position: relative;
+	  display: inline-block;
+      width: 200px;
+      height: 235px;
+      background-image: linear-gradient(to right, darkcyan, thistle, lightgray);
+      border: 3px inset white;
+      transition: width, height, 2s;
+      color: white;
+      border-radius: 50%
+      left: 300px;
+      top: 400px;
+
+      font-size: 14pt;
+      font-weight: lighter;
+      font-style: normal;
+      font-family: avenir;
+      text-align: left;
+    }
+
+.circle5:hover {
+	  position: relative;
+	  display: inline-block;
+      width: 200px;
+      height: 200px;
+      background-image: linear-gradient(to right, rgba(255,0,0,0), rgba(255,0,0,1));
+      border: 3px inset white;
+      transition: width, height, 2s;
+      color: white;
+      border-radius: 50%
+      left: 500px;
+      top: 30px;
+
+      font-size: 14pt;
+      font-weight: lighter;
+      font-style: normal;
+      font-family: avenir;
+      text-align: left;
+    }
+
+.circle6:hover {
+	  position: relative;
+	  display: inline-block;
+      width: 200px;
+      height: 180px;
+      background-image: linear-gradient(to right, firebrick, plum,  grey);
+      border: 3px inset white;
+      transition: width, height, 2s;
+      color: white;
+      border-radius: 50%
+      left: 700px;
+      top: 300px;
+
+      font-size: 14pt;
+      font-weight: lighter;
+      font-style: normal;
+      font-family: avenir;
+      text-align: left;
+    }
+
+.circle7:hover {
+	  position: relative;
+	  display: inline-block;
+      width: 200px;
+      height: 151px;
+      background-image: linear-gradient(to right, indianred, paleturquoise, steelblue);
+      border: 3px inset white;
+      transition: width, height, 2s;
+      color: white;
+      border-radius: 50%
+      left: 800px;
+      top: 700px;
+
+      font-size: 14pt;
+      font-weight: lighter;
+      font-style: normal;
+      font-family: avenir;
+      text-align: left;
+    }
+
+.circle8:hover {
+	  position: relative;
+	  display: inline-block;
+      width: 200px;
+      height: 130px;
+      background-image: linear-gradient(to right, darkcyan, thistle, lightgray);
+      border: 3px inset white;
+      transition: width, height, 2s;
+      color: white;
+      border-radius: 50%
+      left: 900px;
+      top: 400px;
+
+      font-size: 14pt;
+      font-weight: lighter;
+      font-style: normal;
+      font-family: avenir;
+      text-align: left;
+    }   

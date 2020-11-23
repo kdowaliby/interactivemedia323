@@ -1,0 +1,142 @@
+
+.topcontainer{
+	position: relative;
+	display: block;
+	width: 72.7%;
+	height: 40px;
+	padding: 0px;
+	border: 10px solid black;
+	top: 20px;
+}
+
+.song1{
+	position: relative;
+	display: inline-block;
+	width: 20px;
+	height: 20px;
+	padding: 0px;
+	float: left;
+	top: -1px;
+	left: 1px;
+}
+
+.song2{
+	position: relative;
+	display: inline-block;
+	width: 20px;
+	height: 20px;
+	padding: 0px;
+	float: left;
+	top: -1px;
+	left: 75px;
+}
+
+.song3{
+	position: relative;
+	display: inline-block;
+	width: 20px;
+	height: 20px;
+	padding: 0px;
+	float: left;
+	top: -1px;
+	left: 120px;
+}
+
+.song4{
+	position: relative;
+	display: inline-block;
+	width: 20px;
+	height: 20px;
+	padding: 0px;
+	float: left;
+	top: -1px;
+	left: 190px;
+}
+
+.song5{
+	position: relative;
+	display: inline-block;
+	width: 20px;
+	height: 20px;
+	padding: 0px;
+	float: left;
+	top: -1px;
+	left: 295px;
+}
+
+.song6{
+	position: relative;
+	display: inline-block;
+	width: 20px;
+	height: 20px;
+	padding: 0px;
+	float: left;
+	top: -1px;
+	left: 350px;
+}
+
+.song7{
+	position: relative;
+	display: inline-block;
+	width: 20px;
+	height: 20px;
+	padding: 0px;
+	float: left;
+	top: -1px;
+	left: 450px;
+}
+
+.song8{
+	position: relative;
+	display: inline-block;
+	width: 20px;
+	height: 20px;
+	padding: 0px;
+	float: left;
+	top: -1px;
+	left: 520px;
+}
+
+.song9{
+	position: relative;
+	display: inline-block;
+	width: 20px;
+	height: 20px;
+	padding: 0px;
+	float: left;
+	top: -1px;
+	left: 580px;
+}
+
+.song10{
+	position: relative;
+	display: inline-block;
+	width: 20px;
+	height: 20px;
+	padding: 0px;
+	float: left;
+	top: -1px;
+	left: 620px;
+}
+
+.song11{
+	position: relative;
+	display: inline-block;
+	width: 20px;
+	height: 20px;
+	padding: 0px;
+	float: left;
+	top: -1px;
+	left: 680px;
+}
+
+.song12{
+	position: relative;
+	display: inline-block;
+	width: 20px;
+	height: 20px;
+	padding: 0px;
+	float: left;
+	top: -1px;
+	left: 725px;
+}

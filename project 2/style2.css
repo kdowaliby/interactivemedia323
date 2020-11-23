@@ -1,0 +1,100 @@
+body{}
+
+.line1{
+	position: relative;
+	display: inline-block;
+	width: 20px;
+	height: 70px;
+	left: 80px;
+	top: 90px;
+}
+
+.line2{
+	position: relative;
+	display: inline-block;
+	width: 20px;
+	height: 70px;
+	left: 150px;
+	top: 200px;
+}
+
+.line3{
+	position: relative;
+	display: inline-block;
+	width: 20px;
+	height: 70px;
+	left: 200px;
+	top: 300px;
+}
+
+.line4{
+	position: relative;
+	display: inline-block;
+	width: 20px;
+	height: 70px;
+	left: 250px;
+	top: 400px;
+}
+
+.line5{
+	position: relative;
+	display: inline-block;
+	width: 20px;
+	height: 70px;
+	left: 300px;
+	top: 500px;
+}
+
+.line6{
+	position: relative;
+	display: inline-block;
+	width: 20px;
+	height: 70px;
+	left: 350px;
+	top: 600px;
+}
+
+.line7{
+	position: relative;
+	display: inline-block;
+	width: 20px;
+	height: 70px;
+	left: 410px;
+	top: 800px;
+}
+
+.line8{
+	position: relative;
+	display: inline-block;
+	width: 20px;
+	height: 70px;
+	left: 470px;
+	top: 900px;
+}
+
+.line9{
+	position: relative;
+	display: inline-block;
+	width: 20px;
+	height: 70px;
+	left: 510px;
+	top: 1080px;
+}
+
+.line10{
+	position: relative;
+	display: inline-block;
+	width: 20px;
+	height: 70px;
+	left: 580px;
+	top: 1200px;
+}
+
+.line11{
+	position: relative;
+	display: inline-block;
+	width: 20px;
+	height: 70px;
+	left: 650px;
+	top: 1250px;
+}

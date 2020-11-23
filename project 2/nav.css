@@ -1,0 +1,221 @@
+body{ background: slategrey }
+
+#rec1{
+	position: fixed;
+	width: 80%;
+	height:15px;
+	background: black;
+	margin: 10%;
+	top: 30px; 
+}
+
+#rec2{
+	position: fixed;
+	width: 80%;
+	height:10px;
+	background: black;
+	margin: 10%;
+	top: 80px; 
+}
+
+#rec3{
+	position: fixed;
+	width: 80%;
+	height:10px;
+	background: black;
+	margin: 10%;
+	top: 120px; 
+}
+
+#rec4{
+	position: fixed;
+	width: 80%;
+	height:10px;
+	background: black;
+	margin: 10%;
+	top: 160px; 
+}
+
+#rec5{
+	position: fixed;
+	width: 80%;
+	height:10px;
+	background: black;
+	margin: 10%;
+	top: 200px; 
+}
+
+#rec6{
+	position: fixed;
+	width: 80%;
+	height:15px;
+	background: black;
+	margin: 10%;
+	top: 240px; 
+}
+
+#rec7{
+	position: fixed;
+	width: 80%;
+	height:15px;
+	background: black;
+	margin: 10%;
+	top: 330px; 
+}
+
+#rec8{
+	position: fixed;
+	width: 80%;
+	height:10px;
+	background: black;
+	margin: 10%;
+	top: 380px; 
+}
+
+#rec9{
+	position: fixed;
+	width: 80%;
+	height:10px;
+	background: black;
+	margin: 10%;
+	top: 420px; 
+}
+
+#rec10{
+	position: fixed;
+	width: 80%;
+	height:10px;
+	background: black;
+	margin: 10%;
+	top: 460px; 
+}
+
+#rec11{
+	position: fixed;
+	width: 80%;
+	height:10px;
+	background: black;
+	margin: 10%;
+	top: 500px; 
+}
+
+#rec12{
+	position: fixed;
+	width: 80%;
+	height:15px;
+	background: black;
+	margin: 10%;
+	top: 540px; 
+}
+
+.p1{
+	position: absolute;
+	width: 20px;
+	height: 15px;
+	background: white;
+	border-radius: 50%;
+	margin: 15%;
+	top: 85px;
+}
+
+.p2{
+	position: absolute;
+	width: 20px;
+	height: 15px;
+	background: white;
+	border-radius: 50%;
+	margin: 25%;
+	top: 5px;
+}
+
+.p3{
+	position: absolute;
+	width: 20px;
+	height: 15px;
+	background: white;
+	border-radius: 50%;
+	margin: 30%;
+	bottom: 95px;
+}
+
+.p4{
+	position: absolute;
+	width: 20px;
+	height: 15px;
+	background: white;
+	border-radius: 50%;
+	margin: 35%;
+	bottom: 90px;
+}
+
+.p5{
+	position: absolute;
+	width: 20px;
+	height: 15px;
+	background: white;
+	border-radius: 50%;
+	left: 560px;
+	bottom: 405px;
+}
+
+.p6{
+	position: absolute;
+	width: 20px;
+	height: 15px;
+	background: white;
+	border-radius: 50%;
+	left: 620px;
+	bottom: 465px;
+}
+
+.p7{
+	position: absolute;
+	width: 20px;
+	height: 15px;
+	background: white;
+	border-radius: 50%;
+	left: 700px;
+	bottom: 485px;
+}
+
+.p8{
+	position: absolute;
+	width: 20px;
+	height: 15px;
+	background: white;
+	border-radius: 50%;
+	left: 750px;
+	bottom: 550px;
+}
+
+.p9{
+	position: absolute;
+	width: 20px;
+	height: 15px;
+	background: white;
+	border-radius: 50%;
+	left: 800px;
+	bottom: 385px;
+}
+
+
+.p10{
+	position: absolute;
+	width: 20px;
+	height: 15px;
+	background: white;
+	border-radius: 50%;
+	left: 880px;
+	bottom: 505px;
+}
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,79 @@
+.Musical{
+	border: 3px solid black;
+	height: 80px;
+	width: 300px;
+	position: relative;
+	top: 20px;
+	left: 140px;  
+}
+.our{
+	border: 6px dotted black;
+	height: 60px;
+	width: 300px;
+	position: relative;
+	top: 20px;
+	left: 566px;  
+}
+
+.like{
+	border: 10px solid black;
+	height: 35px;
+	width: 304px;
+	position: relative;
+	top: 20px;
+	left: 0px;  
+}
+
+.My{
+	border: 20px solid black;
+	height: 30px;
+	width: 299px;
+	position: relative;
+	top: 20px;
+	left: 800px;  
+}
+
+.in{
+	border: 8px dotted black;
+	height: 60px;
+	width: 400px;
+	position: relative;
+	top: 20px;
+	left: 250px;  
+}
+
+.I{
+	border: 2px solid black;
+	height: 40px;
+	width: 660px;
+	position: relative;
+	top: 20px;
+	left: 688px;  
+}
+
+.Instead{
+	border: 14px solid black;
+	height: 105px;
+	width: 300px;
+	position: relative;
+	top: 20px;
+	left: 10px;  
+}
+
+.Older{
+	border: 5px dotted black;
+	height: 55px;
+	width: 250px;
+	position: relative;
+	top: 20px;
+	left: 460px;  
+}
+
+.that{
+	border: 10px solid black;
+	height: 135px;
+	width: 200px;
+	position: relative;
+	top: 20px;
+	left: 900px;  
+}
