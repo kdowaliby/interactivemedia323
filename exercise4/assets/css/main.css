@@ -1,0 +1,301 @@
+* {
+	box-sizing: border-box;
+}
+
+body {
+	background: black;
+}
+
+.canvas {
+	width: 900px;
+	height: 556px;
+	margin: 100px auto;
+	background: lightcoral;
+	position: relative;
+}
+
+.body {
+	position: relative;
+    width: 300px;
+    height: 300px;  
+    background: lightpink;
+    border-radius: 50%;
+    left:30%;
+    top: 150px;
+}
+
+.ear1{
+	position: relative;
+    width: 0;
+    height: 0;
+    border-top: 50px solid transparent;
+    border-left: 100px solid pink;
+    border-bottom: 50px solid transparent;
+    border-radius: 20px;
+    left: 32%;
+    bottom: 345px;
+}
+
+.ear2{
+	position: relative;
+    width: 0;
+    height: 0;
+    border-top: 50px solid transparent;
+    border-right: 100px solid pink;
+    border-bottom: 50px solid transparent;
+    border-radius: 20px;
+    left: 50%;
+    bottom: 448px;
+}
+
+#eye1{
+	position: relative;
+	width: 40px;
+     height: 40px;
+     border-radius: 50%;
+     box-shadow: 15px 15px 0 0 black;
+     left: 35%;
+     bottom: 520px;
+}
+
+#eye2{
+	position: relative;
+	width: 40px;
+     height: 40px;
+     border-radius: 50%;
+     box-shadow: 15px 15px 0 0 black;
+     left: 50%;
+     bottom: 560px;
+}
+
+#blush1{
+	position: relative;
+	 width: 20px;
+      height: 10px;
+      background: red;
+      border-radius: 100px / 50px;
+      left: 37%;
+      bottom: 510px;
+}
+
+#blush2{
+	position: relative;
+	 width: 20px;
+      height: 10px;
+      background: red;
+      border-radius: 100px / 50px;
+      left: 54%;
+      bottom: 520px;
+}
+
+#smile{
+	position: relative;
+	width: 30px;
+      height: 30px;
+      background: black;
+      border-radius: 50%;
+      left: 45.5%;
+      bottom: 500px;
+}
+
+.nose{
+	position: relative;
+	 width: 100px;
+      height: 50px;
+      background: palevioletred;
+      border-radius: 100px / 50px;
+      left: 40.9%;
+      bottom: 390px;
+}
+
+.nor1{
+	position: relative;
+	width: 10px;
+    height: 10px;
+    background: black;
+    border-radius: 50%;
+    left: 43%;
+    bottom: 420px;
+}
+
+.nor2{
+	position: relative;
+	width: 10px;
+    height: 10px;
+    background: black;
+    border-radius: 50%;
+    left: 49%;
+    bottom: 430px;
+}
+
+.line{
+	position: absolute;
+	width: 100px;
+	height: 1px;
+	background: pink;
+	left: 40%;
+	top: 430px;
+	z-index: +10px;
+}
+
+.feet1{
+position: relative;
+    width: 90px;
+    height: 90px;  
+    background: lightpink;
+    border-radius: 50%;
+    left:38%;
+    top: 80px;	
+}
+
+.feet2{
+position: relative;
+    width: 90px;
+    height: 90px;  
+    background: lightpink;
+    border-radius: 50%;
+    left:45%;
+    top: -10px;	
+}
+
+.canvas2 {
+	width: 900px;
+	height: 556px;
+	margin: 100px auto;
+	background: peachpuff;
+	position: relative;
+}
+
+.head{
+  position: relative;
+  width: 400px;
+  height: 350px;
+  border-radius: 50%;
+  background: powderblue;
+  left: 30%;
+  top: 150px;
+}
+
+.ear3{
+  position: relative;
+  width: 100px;
+  height: 110px;
+  border-radius: 45%;
+  background: powderblue;
+  transform: rotate(50deg);
+  left: 30%;
+  bottom: 215px; 
+}
+
+.ear4{
+  position: relative;
+  width: 100px;
+  height: 110px;
+  border-radius: 45%;
+  background: powderblue;
+  transform: rotate(-50deg);
+  left: 64.5%;
+  bottom: 315px; 
+}
+
+.circle1{
+  position: relative;
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  background: pink;
+  left: 32.5%;
+  bottom: 416px;
+}
+
+.circle2{
+  position: relative;
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  background: pink;
+  left: 69%;
+  bottom: 445px;
+}
+
+.eye3{
+  position: relative;
+  width: 30px;
+  height: 30px;
+  border-radius: 50%;
+  background: black;
+  left: 40%;
+  bottom: 300px;
+}
+
+.eye33{
+  position: relative;
+  width: 8px;
+  height: 8px;
+  border-radius: 50%;
+  background: white;
+  left: 40.5%;
+  bottom: 325px;
+}
+
+.eye4{
+  position: relative;
+  width: 30px;
+  height: 30px;
+  border-radius: 50%;
+  background: black;
+  left: 62.5%;
+  bottom: 340px;
+}
+
+.eye44{
+  position: relative;
+  width: 8px;
+  height: 8px;
+  border-radius: 50%;
+  background: white;
+  left: 63%;
+  bottom: 365px;
+}
+
+.mouth{
+  position: relative;
+  width: 90px;
+  height: 90px;
+  border-radius: 50%;
+  background: white;
+  left: 45%;
+  bottom: 340px;
+}
+
+.mouth2{
+  position: relative;
+  width: 90px;
+  height: 90px;
+  border-radius: 50%;
+  background: white;
+  left: 51%;
+  bottom: 430px;
+}
+
+.mouth3{
+  position: relative;
+  width: 60px;
+  height: 60px;
+  border-radius: 10%;
+  background: white;
+  left: 50%;
+  bottom: 520px;
+}
+
+.nose2{
+  position: relative;
+  width: 25px;
+  height: 25px;
+  border-radius: 50%;
+  background: black;
+  left: 51.8%;
+  bottom: 555px;
+}
+
+
