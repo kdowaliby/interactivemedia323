@@ -1,0 +1,37 @@
+body{
+  background-image: linear-gradient(to right, black, darkslategrey, darkseagreen, lightslategrey, lightgreen, slategrey, dimgrey, gray, hotpink, darkslateblue, indigo, deepskyblue, gainsboro);
+}
+
+h1{
+	position: relative;
+	display: block;
+	height: 100px;
+	width: 100px;
+	top: 30%;
+	left: 30%;
+	background-image: -webkit-linear-gradient(#eee, #333);
+	-webkit-background-clip: text;
+  	-webkit-text-fill-color: darkgrey;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 100pt;
+	font-family: didot;
+	text-align: left;
+	letter-spacing: 40px;
+}
+
+a{
+	position: relative;
+	display: block;
+	top: 0%;
+	left: 0%;
+	color: darkslategrey;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 10pt;
+	font-family: didot;
+	text-align: left;
+	letter-spacing: 0px;
+}
+  	
+  	

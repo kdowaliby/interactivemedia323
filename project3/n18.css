@@ -1,0 +1,28 @@
+body{
+  background-image: linear-gradient(to right, khaki, lightsalmon, lightgoldenrodyellow, tomato);
+}
+
+p{
+	position: relative;
+	display: inline-block;
+	top: 10px;
+	left: 30%;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 30pt;
+	font-family: didot;
+	text-align: left;
+	letter-spacing: 0px;
+}
+
+a{
+	position: relative;
+	display: inline-block;
+	color: lightslategrey;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 30pt;
+	font-family: didot;
+	text-align: left;
+	letter-spacing: 0px;
+}
